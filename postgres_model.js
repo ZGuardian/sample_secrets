@@ -6,4 +6,4 @@ var pg_pass="sup3rstr0ngpass1ForGG";
 
 var mongo_uri = "mongodb+srv://testuser:hub24aoeu@gg-is-awesome-gg273.mongodb.net/test?retryWrites=true&w=majority";
 
-var mindee_key=fbb000f8917e7abd3c719aa83fe47f26;
+var mindee_key="fbb000f8917e7abd3c719aa83fe47f26";
