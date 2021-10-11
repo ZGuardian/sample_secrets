@@ -8,5 +8,5 @@ var mongo_uri = "mongodb+srv://testuser:hub24aoeu@gg-is-awesome-gg273.mongodb.ne
 
 var mindee_key="fbb000f8917e7abd3c719aa83fe47f26";
 
-var search="2f62be9f6e43a0c82dd510f322ac94db";
+var ALGOLIA_ADMIN_API_SECRET="2f62be9f6e43a0c82dd510f322ac94db";
 
